@@ -1,0 +1,45 @@
+{
+ "Device" : "GW1N-1P5C",
+ "Files" : [
+  {
+   "Path" : "C:/Users/admin/OneDrive/Desktop/gowinn/testnhe/LED_BLINK/src/led_flash.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/admin/OneDrive/Desktop/gowinn/testnhe/LED_BLINK/src/sync_debounce.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/admin/OneDrive/Desktop/gowinn/testnhe/LED_BLINK/src/timer.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/admin/OneDrive/Desktop/gowinn/testnhe/LED_BLINK/src/top_module.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/admin/OneDrive/Desktop/gowinn/testnhe/LED_BLINK/src/watchdog_core .v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/admin/OneDrive/Desktop/gowinn/testnhe/LED_BLINK/src/regfile.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/admin/OneDrive/Desktop/gowinn/testnhe/LED_BLINK/src/uart_rx.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/admin/OneDrive/Desktop/gowinn/testnhe/LED_BLINK/src/uart_tx.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Users/admin/OneDrive/Desktop/gowinn/testnhe/LED_BLINK/impl/temp/rtl_parser.result",
+ "Top" : "top_module",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

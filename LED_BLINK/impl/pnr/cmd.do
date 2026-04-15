@@ -1,0 +1,16 @@
+-d C:\Users\admin\OneDrive\Desktop\gowinn\testnhe\LED_BLINK\impl\gwsynthesis\top_module.vg
+-p GW1N-1P5C-QFN48XF-7
+-pn GW1N-UV1P5QN48XFC7/I6
+-cst C:\Users\admin\OneDrive\Desktop\gowinn\testnhe\LED_BLINK\src\led_flash.cst
+-cfg C:\Users\admin\OneDrive\Desktop\gowinn\testnhe\LED_BLINK\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-place_option 0
+-route_option 0
+-clock_route_order 0
+-correct_hold 1
+-route_maxfan 23
+-global_freq 50.000

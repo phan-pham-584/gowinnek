@@ -1,0 +1,68 @@
+[
+ {
+  "InstFile" : "C:/Users/admin/OneDrive/Desktop/gowinn/testnhe/LED_BLINK/src/led_flash.v",
+  "InstLine" : 5,
+  "InstName" : "led_flash",
+  "ModuleFile" : "C:/Users/admin/OneDrive/Desktop/gowinn/testnhe/LED_BLINK/src/led_flash.v",
+  "ModuleLine" : 5,
+  "ModuleName" : "led_flash"
+ },
+ {
+  "InstFile" : "C:/Users/admin/OneDrive/Desktop/gowinn/testnhe/LED_BLINK/src/sync_debounce.v",
+  "InstLine" : 5,
+  "InstName" : "sync_debounce",
+  "ModuleFile" : "C:/Users/admin/OneDrive/Desktop/gowinn/testnhe/LED_BLINK/src/sync_debounce.v",
+  "ModuleLine" : 5,
+  "ModuleName" : "sync_debounce"
+ },
+ {
+  "InstFile" : "C:/Users/admin/OneDrive/Desktop/gowinn/testnhe/LED_BLINK/src/timer.v",
+  "InstLine" : 6,
+  "InstName" : "timer",
+  "ModuleFile" : "C:/Users/admin/OneDrive/Desktop/gowinn/testnhe/LED_BLINK/src/timer.v",
+  "ModuleLine" : 6,
+  "ModuleName" : "timer"
+ },
+ {
+  "InstFile" : "C:/Users/admin/OneDrive/Desktop/gowinn/testnhe/LED_BLINK/src/top_module.v",
+  "InstLine" : 9,
+  "InstName" : "top_module",
+  "ModuleFile" : "C:/Users/admin/OneDrive/Desktop/gowinn/testnhe/LED_BLINK/src/top_module.v",
+  "ModuleLine" : 9,
+  "ModuleName" : "top_module",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/admin/OneDrive/Desktop/gowinn/testnhe/LED_BLINK/src/top_module.v",
+    "InstLine" : 19,
+    "InstName" : "u_uart_rx",
+    "ModuleFile" : "C:/Users/admin/OneDrive/Desktop/gowinn/testnhe/LED_BLINK/src/uart_rx.v",
+    "ModuleLine" : 4,
+    "ModuleName" : "uart_rx"
+   }
+  ]
+ },
+ {
+  "InstFile" : "C:/Users/admin/OneDrive/Desktop/gowinn/testnhe/LED_BLINK/src/watchdog_core .v",
+  "InstLine" : 5,
+  "InstName" : "watchdog_core",
+  "ModuleFile" : "C:/Users/admin/OneDrive/Desktop/gowinn/testnhe/LED_BLINK/src/watchdog_core .v",
+  "ModuleLine" : 5,
+  "ModuleName" : "watchdog_core"
+ },
+ {
+  "InstFile" : "C:/Users/admin/OneDrive/Desktop/gowinn/testnhe/LED_BLINK/src/regfile.v",
+  "InstLine" : 5,
+  "InstName" : "regfile",
+  "ModuleFile" : "C:/Users/admin/OneDrive/Desktop/gowinn/testnhe/LED_BLINK/src/regfile.v",
+  "ModuleLine" : 5,
+  "ModuleName" : "regfile"
+ },
+ {
+  "InstFile" : "C:/Users/admin/OneDrive/Desktop/gowinn/testnhe/LED_BLINK/src/uart_tx.v",
+  "InstLine" : 4,
+  "InstName" : "uart_tx",
+  "ModuleFile" : "C:/Users/admin/OneDrive/Desktop/gowinn/testnhe/LED_BLINK/src/uart_tx.v",
+  "ModuleLine" : 4,
+  "ModuleName" : "uart_tx"
+ }
+]
